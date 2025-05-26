@@ -33,7 +33,7 @@ Passify/
 
 ## 🌐 Live Demo
 
-👉 [Visit Passify on Render](https://your-app-name.onrender.com)
+👉 [Visit Passify on Render](https://passify-password-generator.onrender.com)
 
 
 ## 🛠️ Technologies Used
